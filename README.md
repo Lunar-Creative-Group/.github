@@ -1,6 +1,6 @@
 Lunar Creative Group: Custom Designs, Custom Solutions
 
-At Lunar Creative Group, we specialize in crafting hand-crafted, custom web design, graphic design, and digital marketing solutions that are as unique as your business. Serving small businesses across the U.S. and Canada, we help brands elevate their presence through visually stunning websites, compelling graphics, and impactful marketing strategies.
+At Lunar Creative Group, we specialize in crafting hand-crafted, custom web design, software development, graphic design, and digital marketing solutions that are as unique as your business. Serving small businesses across the U.S. and Canada, we help brands elevate their presence through visually stunning websites, compelling graphics, and impactful marketing strategies.
 
 Web Design:
 We create websites that combine creativity with functionality, designed to not only capture attention but also to be fully optimized for search engines (SEO). Our custom web design solutions ensure your site is a perfect reflection of your brand and performs seamlessly to drive conversions.
